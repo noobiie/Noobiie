@@ -1,6 +1,7 @@
 Getting Started with DevOps: A Roadmap for Aspiring DevOps Engineers
 
 Welcome to the world of DevOps! This README is designed to provide you with a comprehensive roadmap to kickstart your journey into a rewarding and exciting DevOps career. Whether you're a beginner or looking to transition from another IT field, this guide will help you navigate the core concepts, tools, and best practices in the DevOps landscape.
+
 Table of Contents
 
     Introduction to DevOps
