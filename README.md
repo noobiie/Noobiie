@@ -59,6 +59,7 @@ Familiarize yourself with cloud platforms like AWS, Azure, or Google Cloud. Clou
 Security in DevOps
 
 Learn about DevSecOps, which integrates security into the DevOps process. Understand best practices for securing applications and infrastructure.
+
 Learning Resources
 
     Online courses (e.g., Coursera, Udemy) for DevOps fundamentals.
